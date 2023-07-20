@@ -12,5 +12,3 @@ n2 = st.number_input("Second Number")
 
 if st.button("Calculate"):
     st.write("Summation is: " + str(addition(n1, n2)))
-
-
